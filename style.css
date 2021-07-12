@@ -58,7 +58,7 @@ a:focus{
     =============== */
 
 .card-container{
-    width: 80%;
+    width: 350px;
     margin: 75px auto;
     display: flex;
     justify-content: center;
@@ -174,8 +174,7 @@ a:focus{
     }
 
     .card-container{
-        width: 60%;
-        margin: 100px auto;
+        margin: 95px auto;
     }
 
     .card-header{
@@ -190,8 +189,7 @@ a:focus{
     }
 
     .card-container{
-        width: 45%;
-        margin: 150px auto;
+        margin: 1350px auto;
     }
 }
 
@@ -202,7 +200,6 @@ a:focus{
     }
 
     .card-container{
-        width: 35%;
-        margin: 200px auto;
+        margin: 180px auto;
     }
 }
