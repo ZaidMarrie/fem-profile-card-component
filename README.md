@@ -21,17 +21,17 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-# Desktop Layout
+### Desktop Layout
 
 ![Screenshot 2021-07-12 at 12-15-53 Frontend Mentor Profile card component](https://user-images.githubusercontent.com/84665360/125271569-3481cf80-e30b-11eb-8316-db79dccb0140.png)
 
-# Mobile Layout
+### Mobile Layout
 
 ![Screenshot 2021-07-12 at 12-16-19 Frontend Mentor Profile card component](https://user-images.githubusercontent.com/84665360/125271629-44011880-e30b-11eb-8f8e-44122739079c.png)
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-ItPekYELw)
 - Live Site URL: (https://zaidmarrie.github.io/profile-card_component/)
 
 ## My process
